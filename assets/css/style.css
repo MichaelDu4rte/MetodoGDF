@@ -16,7 +16,10 @@
     scroll-behavior: smooth;
     
 }
-body { overflow-x: hidden; }
+
+html, body {
+    overflow-x: hidden;
+}
 
 :root {
     --main-color: rgba(240, 16, 132, 0.8);
