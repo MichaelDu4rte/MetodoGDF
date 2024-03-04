@@ -576,10 +576,11 @@ section {
         margin-bottom: 1rem;
     }
 
-    * {
-        overflow-x: hidden;
+    .home-text h1 {
+      font-size: 4rem;
     }
 
+  
     
   }
 
